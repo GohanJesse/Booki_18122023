@@ -69,11 +69,15 @@ nav ul li {
     cursor: pointer;
 }
 
+nav ul li a {
+    color: inherit;
+    text-decoration: none;
+}
+
 nav ul li:hover {
     color: #0065FC;
     border-top: solid 2px #0065FC;
 }
-
 
 /* **************** SEARCH FORM **************** */
 
